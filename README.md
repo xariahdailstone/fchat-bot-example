@@ -20,7 +20,8 @@ Name | Description
 `FCHAT_ACCOUNT_PASSWORD` | The password you use to log into F-List.
 `FCHAT_CHARACTER_NAME` | The character name of the bot.
 
-With the environment variables set, run `node bot.js`.
+With the environment variables set, run `npm install` to install the required
+WebSocket module, and then run `node bot.js`.
 
 ## Warning
 
